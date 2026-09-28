@@ -2,7 +2,7 @@
 
 This is an example of a finished Incentive 1 walking skeleton. It doesn't do anything our app is about yet. It proves every piece of the stack is connected: a live site where someone can sign up and log in.
 
-**Live site:** https://YOUR-PROJECT.vercel.app
+**Live site:** https://launchpad-walking-skeleton-exemplar-alpha.vercel.app
 
 ---
 
